@@ -1,4 +1,4 @@
-# qrhandler
+# qrhandler for Flutter Web
 
 Flutter WEB QR Generator and Downloader
 
